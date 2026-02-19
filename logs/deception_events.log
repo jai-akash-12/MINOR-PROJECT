@@ -1,0 +1,10 @@
+2026-02-17 09:05:26,406 - deception_events - INFO - Mirage mutation: 218e7bde - cpu_mutation, memory_mutation, network_mutation, file_mutation
+2026-02-17 09:05:26,420 - deception_events - INFO - GA Generation 1: Fitness = 614.21
+2026-02-17 09:05:26,420 - deception_events - INFO - Mirage mutation: 5cdb6f44 - network_mutation, file_mutation, cpu_mutation
+2026-02-17 09:05:26,430 - deception_events - INFO - Mirage mutation: 7aae9663 - memory_mutation, name_mutation
+2026-02-17 09:05:26,433 - deception_events - INFO - Mirage mutation: 6d50045d - name_mutation, network_mutation, memory_mutation
+2026-02-17 09:05:26,438 - deception_events - INFO - Mirage mutation: 50fd320a - cpu_mutation, name_mutation, file_mutation, memory_mutation
+2026-02-17 09:05:35,878 - deception_events - INFO - Mirage mutation: 218e7bde - name_mutation, network_mutation, cpu_mutation
+2026-02-17 09:05:42,085 - deception_events - INFO - GA Generation 2: Fitness = 457.88
+2026-02-17 09:05:46,438 - deception_events - INFO - GA Generation 3: Fitness = 535.28
+2026-02-17 09:07:09,038 - deception_events - INFO - Mirage mutation: a0267882 - cpu_mutation, name_mutation, network_mutation, file_mutation

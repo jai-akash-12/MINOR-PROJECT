@@ -1,0 +1,98 @@
+2026-02-17 09:05:24,195 - demo_orchestrator - INFO - Initializing Demo Orchestrator...
+2026-02-17 09:05:24,303 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:24,308 - demo_orchestrator - INFO - ================================================================================
+2026-02-17 09:05:24,310 - demo_orchestrator - INFO - 
+[1/5] Creating Polymorphic Process Mirages...
+2026-02-17 09:05:24,322 - demo_orchestrator - INFO - 
+[2/5] Initializing Genetic Algorithm...
+2026-02-17 09:05:24,326 - demo_orchestrator - INFO - 
+[3/5] Generating Mathematical Deception...
+2026-02-17 09:05:24,351 - demo_orchestrator - INFO - 
+[4/5] Deploying Honeypots...
+2026-02-17 09:05:24,372 - demo_orchestrator - INFO - 
+[5/5] Initializing AI Detection Models...
+2026-02-17 09:05:24,382 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:24,387 - demo_orchestrator - INFO - ================================================================================
+
+2026-02-17 09:05:26,389 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:26,399 - demo_orchestrator - INFO - Duration: 60 seconds (~1 minutes)
+2026-02-17 09:05:26,400 - demo_orchestrator - INFO - ================================================================================
+
+2026-02-17 09:05:26,456 - demo_orchestrator - INFO - Attacker is scanning the network for open ports...
+2026-02-17 09:05:29,002 - demo_orchestrator - INFO -    AI Detection: Threat Score = 0.40 (MEDIUM)
+2026-02-17 09:05:32,015 - demo_orchestrator - INFO - Attacker attempting SSH brute force attack...
+2026-02-17 09:05:35,884 - demo_orchestrator - INFO -    AI Detection: Threat Score = 0.40 (MEDIUM)
+2026-02-17 09:05:38,890 - demo_orchestrator - INFO - Attacker attempting to move laterally in network...
+2026-02-17 09:05:42,108 - demo_orchestrator - INFO -    AI Detection: Threat Score = 0.40 (MEDIUM)
+2026-02-17 09:05:45,113 - demo_orchestrator - INFO - Attacker attempting privilege escalation...
+2026-02-17 09:05:47,638 - demo_orchestrator - INFO -    Deploying chaotic credentials and fractal filesystems...
+2026-02-17 09:05:47,638 - demo_orchestrator - INFO -    AI Detection: Threat Score = 0.50 (MEDIUM)
+2026-02-17 09:05:50,646 - demo_orchestrator - INFO - Attacker attempting to exfiltrate data...
+2026-02-17 09:05:53,669 - demo_orchestrator - INFO -    AI Detection: Threat Score = 0.20 (LOW)
+2026-02-17 09:05:55,678 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:55,680 - demo_orchestrator - INFO - ================================================================================
+2026-02-17 09:05:55,683 - demo_orchestrator - INFO -    Total Mirages: 5
+2026-02-17 09:05:55,684 - demo_orchestrator - INFO -    Total Mutations: 6
+2026-02-17 09:05:55,684 - demo_orchestrator - INFO -    Attacker Interactions: 0
+2026-02-17 09:05:55,684 - demo_orchestrator - INFO -    Avg Genetic Diversity: 0.122
+2026-02-17 09:05:55,689 - demo_orchestrator - INFO -    Generations Evolved: 3
+2026-02-17 09:05:55,689 - demo_orchestrator - INFO -    Best Fitness: 535.28
+2026-02-17 09:05:55,689 - demo_orchestrator - INFO -    Average Fitness: 443.06
+2026-02-17 09:05:55,689 - demo_orchestrator - INFO -    Improvement Rate: +-12.9%
+2026-02-17 09:05:55,692 - demo_orchestrator - INFO -    Total Attacks: 5
+2026-02-17 09:05:55,692 - demo_orchestrator - INFO -    Deceptions Triggered: 4
+2026-02-17 09:05:55,692 - demo_orchestrator - INFO -    Average Threat Score: 0.83
+2026-02-17 09:05:55,692 - demo_orchestrator - INFO -    Attack Types: port_scan, ssh_bruteforce, lateral_movement, privilege_escalation, data_exfiltration
+2026-02-17 09:05:55,696 - demo_orchestrator - INFO -    Active Honeypots: 2
+2026-02-17 09:05:55,696 - demo_orchestrator - INFO -    Total Interactions: 0
+2026-02-17 09:05:55,701 - demo_orchestrator - INFO -    Models Trained: False
+2026-02-17 09:05:55,702 - demo_orchestrator - INFO -    Ensemble Models: 2
+2026-02-17 09:05:55,702 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:55,705 - demo_orchestrator - INFO - ================================================================================
+
+2026-02-17 09:05:55,705 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:05:55,708 - demo_orchestrator - INFO - ================================================================================
+2026-02-17 09:05:55,721 - demo_orchestrator - INFO - ================================================================================
+
+2026-02-17 09:15:36,350 - demo_orchestrator - INFO - Initializing Demo Orchestrator...
+2026-02-17 09:15:36,360 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:15:36,365 - demo_orchestrator - INFO - ================================================================================
+2026-02-17 09:15:36,365 - demo_orchestrator - INFO - 
+[1/5] Creating Polymorphic Process Mirages...
+2026-02-17 09:15:36,375 - demo_orchestrator - INFO - 
+[2/5] Initializing Genetic Algorithm...
+2026-02-17 09:15:36,379 - demo_orchestrator - INFO - 
+[3/5] Generating Mathematical Deception...
+2026-02-17 09:15:36,398 - demo_orchestrator - INFO - 
+[4/5] Deploying Honeypots...
+2026-02-17 09:15:36,418 - demo_orchestrator - INFO - 
+[5/5] Initializing AI Detection Models...
+2026-02-17 09:15:36,425 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:15:36,428 - demo_orchestrator - INFO - ================================================================================
+
+2026-02-17 09:16:58,371 - demo_orchestrator - INFO - Initializing Demo Orchestrator...
+2026-02-17 09:16:58,396 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:16:58,403 - demo_orchestrator - INFO - ================================================================================
+2026-02-17 09:16:58,404 - demo_orchestrator - INFO - 
+[1/5] Creating Polymorphic Process Mirages...
+2026-02-17 09:16:58,411 - demo_orchestrator - INFO - 
+[2/5] Initializing Genetic Algorithm...
+2026-02-17 09:16:58,416 - demo_orchestrator - INFO - 
+[3/5] Generating Mathematical Deception...
+2026-02-17 09:16:58,434 - demo_orchestrator - INFO - 
+[4/5] Deploying Honeypots...
+2026-02-17 09:16:58,450 - demo_orchestrator - INFO - 
+[5/5] Initializing AI Detection Models...
+2026-02-17 09:16:58,456 - demo_orchestrator - INFO - 
+================================================================================
+2026-02-17 09:16:58,460 - demo_orchestrator - INFO - ================================================================================
+

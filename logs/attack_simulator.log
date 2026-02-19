@@ -1,0 +1,25 @@
+2026-02-17 09:05:24,199 - attack_simulator - INFO - Attack Simulator initialized (Attacker IP: 117.60.128.139)
+2026-02-17 09:06:13,034 - attack_simulator - INFO - Attack Simulator initialized (Attacker IP: 7.182.188.254)
+2026-02-17 09:06:13,035 - attack_simulator - INFO - ============================================================
+2026-02-17 09:06:13,038 - attack_simulator - INFO - ============================================================
+2026-02-17 09:06:13,038 - attack_simulator - INFO - 
+[PHASE 1] Reconnaissance
+2026-02-17 09:06:16,098 - attack_simulator - INFO - 
+[PHASE 2] Initial Access
+2026-02-17 09:06:18,513 - attack_simulator - INFO - 
+[PHASE 3] Lateral Movement
+2026-02-17 09:06:21,524 - attack_simulator - INFO - 
+[PHASE 4] Privilege Escalation
+2026-02-17 09:06:24,035 - attack_simulator - INFO - 
+[PHASE 5] Data Exfiltration
+2026-02-17 09:06:25,044 - attack_simulator - INFO - 
+============================================================
+2026-02-17 09:06:25,048 - attack_simulator - INFO - ============================================================
+2026-02-17 09:06:25,048 - attack_simulator - INFO - Total Duration: 12.01 seconds
+2026-02-17 09:06:25,049 - attack_simulator - INFO - Total Attacks: 5
+2026-02-17 09:06:25,049 - attack_simulator - INFO - Deceptions Triggered: 4
+2026-02-17 09:06:25,049 - attack_simulator - INFO - Avg Threat Score: 0.83
+2026-02-17 09:06:25,049 - attack_simulator - INFO - ============================================================
+2026-02-17 09:07:09,048 - attack_simulator - INFO - Attack Simulator initialized (Attacker IP: 41.71.70.69)
+2026-02-17 09:15:36,354 - attack_simulator - INFO - Attack Simulator initialized (Attacker IP: 81.93.125.207)
+2026-02-17 09:16:58,382 - attack_simulator - INFO - Attack Simulator initialized (Attacker IP: 163.71.130.122)

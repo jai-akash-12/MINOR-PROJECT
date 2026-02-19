@@ -1,0 +1,36 @@
+2026-02-17 09:05:24,198 - honeypot_manager - INFO - Honeypot Manager initialized
+2026-02-17 09:05:24,355 - honeypot_manager - INFO - SSH honeypot started on port 2222
+2026-02-17 09:05:24,356 - honeypot_manager - INFO - Deployed ssh honeypot on port 2222
+2026-02-17 09:05:24,361 - honeypot_manager - INFO - FTP honeypot started on port 2121
+2026-02-17 09:05:24,362 - honeypot_manager - INFO - Deployed ftp honeypot on port 2121
+2026-02-17 09:05:24,365 - honeypot_manager - ERROR - Failed to start HTTP honeypot: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+2026-02-17 09:05:24,366 - honeypot_manager - WARNING - Unknown honeypot type: mysql
+2026-02-17 09:05:24,367 - honeypot_manager - WARNING - Unknown honeypot type: redis
+2026-02-17 09:05:24,367 - honeypot_manager - WARNING - Unknown honeypot type: smtp
+2026-02-17 09:15:36,353 - honeypot_manager - INFO - Honeypot Manager initialized
+2026-02-17 09:15:36,404 - honeypot_manager - INFO - SSH honeypot started on port 2222
+2026-02-17 09:15:36,404 - honeypot_manager - INFO - Deployed ssh honeypot on port 2222
+2026-02-17 09:15:36,406 - honeypot_manager - INFO - FTP honeypot started on port 2121
+2026-02-17 09:15:36,406 - honeypot_manager - INFO - Deployed ftp honeypot on port 2121
+2026-02-17 09:15:36,407 - honeypot_manager - ERROR - Failed to start HTTP honeypot: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+2026-02-17 09:15:36,408 - honeypot_manager - WARNING - Unknown honeypot type: mysql
+2026-02-17 09:15:36,408 - honeypot_manager - WARNING - Unknown honeypot type: redis
+2026-02-17 09:15:36,409 - honeypot_manager - WARNING - Unknown honeypot type: smtp
+2026-02-17 09:16:58,380 - honeypot_manager - INFO - Honeypot Manager initialized
+2026-02-17 09:16:58,436 - honeypot_manager - INFO - SSH honeypot started on port 2222
+2026-02-17 09:16:58,437 - honeypot_manager - INFO - Deployed ssh honeypot on port 2222
+2026-02-17 09:16:58,443 - honeypot_manager - INFO - FTP honeypot started on port 2121
+2026-02-17 09:16:58,443 - honeypot_manager - INFO - Deployed ftp honeypot on port 2121
+2026-02-17 09:16:58,445 - honeypot_manager - ERROR - Failed to start HTTP honeypot: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+2026-02-17 09:16:58,446 - honeypot_manager - WARNING - Unknown honeypot type: mysql
+2026-02-17 09:16:58,447 - honeypot_manager - WARNING - Unknown honeypot type: redis
+2026-02-17 09:16:58,447 - honeypot_manager - WARNING - Unknown honeypot type: smtp
+2026-02-17 09:18:26,343 - honeypot_manager - INFO - Honeypot Manager initialized
+2026-02-17 09:18:26,345 - honeypot_manager - INFO - SSH honeypot started on port 2222
+2026-02-17 09:18:26,345 - honeypot_manager - INFO - Deployed ssh honeypot on port 2222
+2026-02-17 09:18:26,346 - honeypot_manager - INFO - FTP honeypot started on port 2121
+2026-02-17 09:18:26,347 - honeypot_manager - INFO - Deployed ftp honeypot on port 2121
+2026-02-17 09:18:26,347 - honeypot_manager - ERROR - Failed to start HTTP honeypot: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+2026-02-17 09:18:26,348 - honeypot_manager - WARNING - Unknown honeypot type: mysql
+2026-02-17 09:18:26,348 - honeypot_manager - WARNING - Unknown honeypot type: redis
+2026-02-17 09:18:26,348 - honeypot_manager - WARNING - Unknown honeypot type: smtp

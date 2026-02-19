@@ -1,0 +1,119 @@
+{
+  "mirages": [
+    {
+      "id": 1,
+      "original": "mysqld",
+      "current": "sqlite3",
+      "mutations": 27,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 2,
+      "original": "apache2",
+      "current": "sqlite3",
+      "mutations": 31,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 3,
+      "original": "sshd",
+      "current": "perl",
+      "mutations": 29,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 4,
+      "original": "redis-server",
+      "current": "mariadb",
+      "mutations": 27,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 5,
+      "original": "postgres",
+      "current": "httpd",
+      "mutations": 40,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 6,
+      "original": "nginx",
+      "current": "cron",
+      "mutations": 28,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 7,
+      "original": "rsyslogd",
+      "current": "caddy",
+      "mutations": 26,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 8,
+      "original": "cron",
+      "current": "gunicorn",
+      "mutations": 25,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 9,
+      "original": "python3",
+      "current": "udevd",
+      "mutations": 33,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 10,
+      "original": "node",
+      "current": "node",
+      "mutations": 35,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 11,
+      "original": "mongod",
+      "current": "php-fpm",
+      "mutations": 33,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    },
+    {
+      "id": 12,
+      "original": "php-fpm",
+      "current": "apache2",
+      "mutations": 34,
+      "diversity_score": 0.99,
+      "status": "active",
+      "interactions": 0
+    }
+  ],
+  "ga": {
+    "generation": 52,
+    "fitness": 227.2,
+    "population": 20,
+    "best_strategy": "entropy_maximizer",
+    "improvement": 1.0
+  }
+}

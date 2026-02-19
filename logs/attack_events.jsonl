@@ -1,0 +1,1 @@
+{"timestamp": "2026-02-17T23:29:47.105934", "attack_type": "ssh_connection", "source_ip": "192.168.1.16", "target": "SSH:2222", "severity": "MEDIUM", "threat_score": 0.6, "deception_triggered": true, "ai_detection": {}, "details": {"data_length": 33}}
