@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-COMPLETELY FIXED WORKING SERVER
-All 7 issues resolved!
-Every attack WILL be logged - GUARANTEED!
-"""
 
 import socket
 import threading
