@@ -783,10 +783,21 @@ def page_ai(attacks):
         c2.metric("LSTM Score",       f"{ai.get('lstm',0):.2f}")
         c3.metric("Autoencoder",      f"{ai.get('autoencoder',0):.2f}")
 
+        # Compute ensemble if missing (backward compat with old records)
+        ensemble_score = ai.get('ensemble', 0)
+        if ensemble_score == 0 and ai:
+            ensemble_score = round(
+                ai.get('isolation_forest', 0) * 0.3 +
+                ai.get('lstm', 0) * 0.3 +
+                ai.get('autoencoder', 0) * 0.2 +
+                ai.get('random_forest', 0) * 0.2,
+                2
+            )
+
         c4, c5, c6 = st.columns(3)
         c4.metric("Random Forest", f"{ai.get('random_forest',0):.2f}")
-        c5.metric("Ensemble Final", f"{ai.get('ensemble',0):.2f}")
-        c6.metric("Verdict", "🔴 THREAT" if ai.get('ensemble',0) >= 0.7 else "🟢 SAFE")
+        c5.metric("Ensemble Final", f"{ensemble_score:.2f}")
+        c6.metric("Verdict", "🔴 THREAT" if ensemble_score >= 0.7 else "🟢 SAFE")
 
     st.markdown("""
     ---
